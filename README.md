@@ -1,2 +1,2 @@
-# Codsoft_datascince_task1
-This is the project of Titanic Survival Prediction
+# Data_Science_Codsoft_Task1
+Project of Titanic Survival Prediction
